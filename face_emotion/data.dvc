@@ -1,0 +1,14 @@
+outs:
+- hash: md5
+  path: data
+  files:
+  - relpath: test.csv
+    md5: cebc92a107a1519de4ef48df620d24f5
+    size: 10758370
+    version_id: '2023-08-03T20:18:22.7455320Z'
+    etag: '"0x8DB945EC9421648"'
+  - relpath: train.csv
+    md5: 563d07985f7a0658f31529025f7b40b6
+    size: 35317437
+    version_id: '2023-08-03T20:18:22.4367101Z'
+    etag: '"0x8DB945EC912F6ED"'

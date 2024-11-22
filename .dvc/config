@@ -1,0 +1,5 @@
+[core]
+    remote = azure
+['remote "azure"']
+    url = azure://finalcapstone
+    version_aware = true

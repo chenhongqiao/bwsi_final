@@ -1,0 +1,1 @@
+wget https://www.kaggle.com/datasets/noamsegal/affectnet-training-data/download?datasetVersionNumber=3

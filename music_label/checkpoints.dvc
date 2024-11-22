@@ -1,0 +1,214 @@
+outs:
+- hash: md5
+  path: checkpoints
+  files:
+  - relpath: 10/metrics.json
+    md5: 5690ff59453945b2ebeaccdff97101fc
+    size: 410
+    cloud:
+      azure:
+        etag: '"0x8DB96204325EEDA"'
+        version_id: '2023-08-06T01:55:51.2756466Z'
+  - relpath: 10/model.pt
+    md5: aa26985d3c6ebc6614fca4f81ecc4696
+    size: 69153867
+    cloud:
+      azure:
+        etag: '"0x8DB962049583C79"'
+        version_id: '2023-08-06T01:56:01.6706441Z'
+  - relpath: 10/optimizer.pt
+    md5: 07bbc41a0ed193a942a20ab47c196b6e
+    size: 138254003
+    cloud:
+      azure:
+        etag: '"0x8DB96204D627D75"'
+        version_id: '2023-08-06T01:56:08.4497300Z'
+  - relpath: 15/metrics.json
+    md5: 2a61f529ef5e6e825c59a6d5f3d1f7ea
+    size: 613
+    cloud:
+      azure:
+        etag: '"0x8DB962043194689"'
+        version_id: '2023-08-06T01:55:51.1916953Z'
+  - relpath: 15/model.pt
+    md5: b673968ddd312fb17a63c581b971f416
+    size: 69153867
+    cloud:
+      azure:
+        etag: '"0x8DB9620496B4C76"'
+        version_id: '2023-08-06T01:56:01.7965718Z'
+  - relpath: 15/optimizer.pt
+    md5: 66a7974125bef3430d5ea718adc20289
+    size: 138254003
+    cloud:
+      azure:
+        etag: '"0x8DB96204C056AFD"'
+        version_id: '2023-08-06T01:56:06.1610509Z'
+  - relpath: 20/metrics.json
+    md5: a8f8dca74afa3aaf22ccec7e9c1e303c
+    size: 817
+    cloud:
+      azure:
+        etag: '"0x8DB9620431D649E"'
+        version_id: '2023-08-06T01:55:51.2186798Z'
+  - relpath: 20/model.pt
+    md5: aa762a6a6244c1deadb3e96def61c56e
+    size: 69153867
+    cloud:
+      azure:
+        etag: '"0x8DB962049F6FD11"'
+        version_id: '2023-08-06T01:56:02.7110433Z'
+  - relpath: 20/optimizer.pt
+    md5: 2775d4781073550f9936bede7a5e72f1
+    size: 138254003
+    cloud:
+      azure:
+        etag: '"0x8DB96204E64FA2D"'
+        version_id: '2023-08-06T01:56:10.1437507Z'
+  - relpath: 25/metrics.json
+    md5: 8bb471410daa8fb59409f5814b111609
+    size: 1020
+    cloud:
+      azure:
+        etag: '"0x8DB9620431FD548"'
+        version_id: '2023-08-06T01:55:51.2356704Z'
+  - relpath: 25/model.pt
+    md5: eeb8875bb878da792dd71d9e9aad71e1
+    size: 69153867
+    cloud:
+      azure:
+        etag: '"0x8DB962049F639DE"'
+        version_id: '2023-08-06T01:56:02.7060462Z'
+  - relpath: 25/optimizer.pt
+    md5: ff218c36d5266aabdd96273b38855207
+    size: 138254003
+    cloud:
+      azure:
+        etag: '"0x8DB96204F9584FB"'
+        version_id: '2023-08-06T01:56:12.1385995Z'
+  - relpath: 30/metrics.json
+    md5: 9a0e04e1df46620378306f37751e701e
+    size: 1226
+    cloud:
+      azure:
+        etag: '"0x8DB962043194689"'
+        version_id: '2023-08-06T01:55:51.1926958Z'
+  - relpath: 30/model.pt
+    md5: 937ae27f44a8509eb1d7dd27ac77823a
+    size: 69153867
+    cloud:
+      azure:
+        etag: '"0x8DB962048F5DFBA"'
+        version_id: '2023-08-06T01:56:01.0260170Z'
+  - relpath: 30/optimizer.pt
+    md5: e2e38fec4b776c066325cd730bf6c2a7
+    size: 138254003
+    cloud:
+      azure:
+        etag: '"0x8DB96204D993CCE"'
+        version_id: '2023-08-06T01:56:08.8075230Z'
+  - relpath: 35/metrics.json
+    md5: f196fd512a6556f86d5aee9c251273dc
+    size: 1432
+    cloud:
+      azure:
+        etag: '"0x8DB9620431D168B"'
+        version_id: '2023-08-06T01:55:51.2176805Z'
+  - relpath: 35/model.pt
+    md5: 8d65d8b083bc14b841ca8370fe040d77
+    size: 69153867
+    cloud:
+      azure:
+        etag: '"0x8DB96204A90B557"'
+        version_id: '2023-08-06T01:56:03.7194613Z'
+  - relpath: 35/optimizer.pt
+    md5: 84d8f3fdeb37d213b2530e74c3624cc8
+    size: 138254003
+    cloud:
+      azure:
+        etag: '"0x8DB96204C1F30C9"'
+        version_id: '2023-08-06T01:56:06.3309544Z'
+  - relpath: 40/metrics.json
+    md5: 77ab20ea10a006d9894d985a6d4e1e0c
+    size: 1638
+    cloud:
+      azure:
+        etag: '"0x8DB9620431B4215"'
+        version_id: '2023-08-06T01:55:51.2056879Z'
+  - relpath: 40/model.pt
+    md5: 748433a2d65239be28df1b10ff816673
+    size: 69153867
+    cloud:
+      azure:
+        etag: '"0x8DB962049624D1D"'
+        version_id: '2023-08-06T01:56:01.7376054Z'
+  - relpath: 40/optimizer.pt
+    md5: eaf48b4583db562c0a477323199d2ca8
+    size: 138254003
+    cloud:
+      azure:
+        etag: '"0x8DB96204C357496"'
+        version_id: '2023-08-06T01:56:06.4758694Z'
+  - relpath: 45/metrics.json
+    md5: 334ad62f8dfe56af38c41ed11ee07153
+    size: 1843
+    cloud:
+      azure:
+        etag: '"0x8DB9620431D3D95"'
+        version_id: '2023-08-06T01:55:51.2176805Z'
+  - relpath: 45/model.pt
+    md5: fdd6ee4a88ad25092b9ef67fe8c88a57
+    size: 69153867
+    cloud:
+      azure:
+        etag: '"0x8DB96204908A199"'
+        version_id: '2023-08-06T01:56:01.1489449Z'
+  - relpath: 45/optimizer.pt
+    md5: 0ed329174366182851b383ea54b45acc
+    size: 138254003
+    cloud:
+      azure:
+        etag: '"0x8DB96204C14D20C"'
+        version_id: '2023-08-06T01:56:06.2629924Z'
+  - relpath: 5/metrics.json
+    md5: 9336b4f461461428020225d4d8675a80
+    size: 206
+    cloud:
+      azure:
+        etag: '"0x8DB962043270026"'
+        version_id: '2023-08-06T01:55:51.2816438Z'
+  - relpath: 5/model.pt
+    md5: ba7e0674ca3704f8d7961ec0c01e5652
+    size: 69153867
+    cloud:
+      azure:
+        etag: '"0x8DB962049ABCE65"'
+        version_id: '2023-08-06T01:56:02.2183285Z'
+  - relpath: 5/optimizer.pt
+    md5: 452ad5ba69735bfc89b63f0465b7da71
+    size: 138254003
+    cloud:
+      azure:
+        etag: '"0x8DB962040DAF60B"'
+        version_id: '2023-08-06T01:55:47.4278683Z'
+  - relpath: 50/metrics.json
+    md5: e834cd20c22bc0526e3d97be87316001
+    size: 2045
+    cloud:
+      azure:
+        etag: '"0x8DB962042FE4878"'
+        version_id: '2023-08-06T01:55:51.0157969Z'
+  - relpath: 50/model.pt
+    md5: 2c35b36c4c897cb5aabf7322554218f3
+    size: 69153867
+    cloud:
+      azure:
+        etag: '"0x8DB962042D4F4A1"'
+        version_id: '2023-08-06T01:55:50.7439537Z'
+  - relpath: 50/optimizer.pt
+    md5: 3f9644fb89e5665650bb43681e1be3d8
+    size: 138254003
+    cloud:
+      azure:
+        etag: '"0x8DB96204C4CA2A8"'
+        version_id: '2023-08-06T01:56:06.6277816Z'
